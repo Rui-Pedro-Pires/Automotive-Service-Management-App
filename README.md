@@ -29,7 +29,7 @@ This project is a Python-based desktop application developed using **Tkinter** f
 ## Screenshots
 
 ### Main App Interface
-<img src="https://github.com/Rui-Pedro-Pires/ServiceAdder/blob/main/main_app.png"\>
+<img src="https://github.com/Rui-Pedro-Pires/ServiceAdder/blob/main/main_app.png">
 
 ## Technologies Used
 
