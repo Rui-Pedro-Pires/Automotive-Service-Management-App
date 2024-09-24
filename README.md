@@ -27,8 +27,6 @@ This project is a Python-based desktop application developed using **Tkinter** f
     ```
 
 ## Screenshots
-### Login Page
-<img src="https://github.com/Rui-Pedro-Pires/ServiceAdder/blob/main/login_page.png">
 
 ### Main App Interface
 <img src="https://github.com/Rui-Pedro-Pires/ServiceAdder/blob/main/main_app.png">
