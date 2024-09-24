@@ -15,7 +15,7 @@ This project is a Python-based desktop application developed using **Tkinter** f
 
 1. Clone the repository:
     ```
-    git clone <repository-url>
+    git clone git@github.com:Rui-Pedro-Pires/Automotive-Service-Management-App.git
     ```
 2. Install the required dependencies:
     ```
